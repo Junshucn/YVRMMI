@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QLibDemo-MSVC9", "QLibDemo-MSVC9.vcproj", "{764605DC-3D0C-46D5-B1FA-578518A3800E}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 1
+		SccProjectUniqueName0 = QLibDemo-MSVC9.vcproj
+		SccProjectName0 = Perforce\u0020Project
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Perforce\u0020SCM
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		External_Debug|Win32 = External_Debug|Win32
+		External_Release|Win32 = External_Release|Win32
+		QLIB_Debug|Win32 = QLIB_Debug|Win32
+		QLIB_Release|Win32 = QLIB_Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{764605DC-3D0C-46D5-B1FA-578518A3800E}.External_Debug|Win32.ActiveCfg = External_Debug|Win32
+		{764605DC-3D0C-46D5-B1FA-578518A3800E}.External_Debug|Win32.Build.0 = External_Debug|Win32
+		{764605DC-3D0C-46D5-B1FA-578518A3800E}.External_Release|Win32.ActiveCfg = External_Release|Win32
+		{764605DC-3D0C-46D5-B1FA-578518A3800E}.External_Release|Win32.Build.0 = External_Release|Win32
+		{764605DC-3D0C-46D5-B1FA-578518A3800E}.QLIB_Debug|Win32.ActiveCfg = QLIB_Debug|Win32
+		{764605DC-3D0C-46D5-B1FA-578518A3800E}.QLIB_Debug|Win32.Build.0 = QLIB_Debug|Win32
+		{764605DC-3D0C-46D5-B1FA-578518A3800E}.QLIB_Release|Win32.ActiveCfg = QLIB_Release|Win32
+		{764605DC-3D0C-46D5-B1FA-578518A3800E}.QLIB_Release|Win32.Build.0 = QLIB_Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
